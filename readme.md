@@ -1,4 +1,4 @@
-This is a simple application that allows the user to input information. After this has been done the user is then allowed to press a button which then randomly chooses an option from the give inputed date. Below are some simple instructions on how to use this app.
+This is a simple application that allows the user to input information. After this has been done the user is then allowed to press a button which then randomly chooses an option from the given inputed data. Below are some simple instructions on how to use this app.
 
 1. Open the project with node.js
 2. run command "yarn install"
