@@ -41,9 +41,11 @@ export default class IndecisionApp extends React.Component {
     }
 
     handleClearSelectedState = () => {
-        this.setState(() => ({
-            selectedOption: ''
-        }))
+        setTimeout(() => {
+            this.setState(() => ({
+                selectedOption: ''
+            }))
+        }, 200);
     }
 
 
